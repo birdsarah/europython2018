@@ -1,0 +1,9 @@
+name: ep2018
+channels:
+    - conda-forge
+dependencies:
+    - python>=3.6
+    - jupyter
+    - pandas
+    - bokeh
+    - networkx
